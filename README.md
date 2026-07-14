@@ -11,5 +11,5 @@ A simple weather app built with HTML, CSS, and JavaScript.
 - HTML, CSS, JavaScript
 - OpenWeatherMap API
 
-## How to run
-Clone the repo and open index.html in your browser.
+## Demo
+ [demo]https://lukemmanyi.github.io/weather-app/
